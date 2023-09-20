@@ -1,2 +1,1 @@
-import result from './data.txt';
-import './style.css';
+import './css/style.css';
